@@ -5,7 +5,7 @@
 wordpress_sites:
   sideshed.com:
     site_hosts:
-      - 192.241.227.235
+      - sideshed.dev
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: mason@jackalopemedia.com
     multisite:
